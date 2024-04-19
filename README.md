@@ -1,5 +1,5 @@
 # CNN
-画像処理に用いられるCNNをpytorchとJax/Flaxで実装しMNISTを用いて性能比較を行います。
+画像処理に用いられるCNNをpytorchで実装。
 
 ## パッケージのインストール
 ```
